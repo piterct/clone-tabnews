@@ -4,7 +4,8 @@
   "description": "Implementation of  https://www.tabnews.com.br/ into  https://curso.dev",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check ."
   },
   "author": "",
   "license": "MIT",
